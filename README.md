@@ -1,4 +1,5 @@
 ## Setup
+Python version 3.13.7
 ```bash
 # setup venv
 python3 -m venv .venv
