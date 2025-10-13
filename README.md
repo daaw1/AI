@@ -1,10 +1,10 @@
-## 📦 Setup
+## Setup
 ```bash
 # setup venv
 pip3 install -r requirements.txt
 ```
 
-## 📝 Citation
+## Citation
 If you use this code, please cite the associated paper:
 ```bibtex
 @article{wu,
@@ -15,6 +15,6 @@ If you use this code, please cite the associated paper:
 }
 ```
 
-## 🔑 License
+## License
 This project is released under the MIT License (see `LICENSE`).
 
